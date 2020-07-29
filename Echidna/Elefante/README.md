@@ -6,5 +6,5 @@
 ## Presentación
 [Presentación en PDF con los pasos de la construcción](https://github.com/lobotic/Proyectitos/blob/master/Echidna/Elefante/ElefantePresentacion.pdf)
 
-### Recursos
+## Recursos
 [Plantilla del elefante](https://github.com/lobotic/Proyectitos/blob/master/Echidna/Elefante/elefante.pdf)
