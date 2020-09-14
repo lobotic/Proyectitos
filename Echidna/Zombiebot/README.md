@@ -2,7 +2,7 @@
 ![Zombiebot](https://github.com/lobotic/Proyectitos/blob/master/Echidna/Zombiebot/ZOMBIEBOT.png)
 
 ## Vídeo
-[![Video en Youtube](https://github.com/lobotic/Proyectitos/blob/master/Echidna/Zombiebot/Youtube.png)](https://youtu.be/ https://youtu.be/pNQFwh4Arsw)
+[![Video en Youtube](https://github.com/lobotic/Proyectitos/blob/master/Echidna/Zombiebot/Youtube.png)](https://youtu.be/pNQFwh4Arsw)
 [![Video en Youtube](https://github.com/lobotic/Proyectitos/blob/master/Echidna/Zombiebot/Youtube2.png)](https://youtu.be/nIhXslzPmzY)
 
 ## Presentación
