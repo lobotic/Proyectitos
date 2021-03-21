@@ -10,5 +10,8 @@
 ## Presentación
 [Presentación en PDF con los pasos de la construcción](https://github.com/lobotic/Proyectitos/blob/master/Echidna/Perrobot/PerroBot.pdf)
 
+## Bloques del proyecto
+![ImagenBloques](https://github.com/lobotic/Proyectitos/blob/master/Echidna/Perrobot/programa%20perrete.png)
+
 ## Recursos
 [Archivo sb3](https://github.com/lobotic/Proyectitos/blob/master/Echidna/Perrobot/Perrobot.sb3)
