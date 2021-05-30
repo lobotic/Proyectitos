@@ -3,7 +3,8 @@
 
 ## Vídeo de programación del modelo de Machine Learning
 [![Video en Youtube1](https://github.com/lobotic/Proyectitos/blob/master/Echidna/AsistenteVirtual/AsistenteYT.png)](https://www.youtube.com/watch?v=1N8gIUOGDlM)
-<img src="drawing.jpg" alt="drawing" width="200"/>
+
+
 ## Vídeo de programación del proyecto en EchidnaScratch
 [![Video en Youtube2](https://github.com/lobotic/Proyectitos/blob/master/Echidna/AsistenteVirtual/AsistenteYT1.png)](https://www.youtube.com/watch?v=uZRnbfCEjvU)
 
