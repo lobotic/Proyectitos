@@ -10,6 +10,7 @@
 
 ## Presentaciónes
 [Presentación en PDF con los pasos de la construcción de la maqueta](https://github.com/lobotic/Proyectitos/blob/master/Echidna/AsistenteVirtual/Maqueta%20para%20el%20asistente.pdf)
+
 [Presentación en PDF de la programación del proyecto](https://github.com/lobotic/Proyectitos/blob/master/Echidna/AsistenteVirtual/ASISTENTE%20VIRTUAL%20PROYECTO.pdf)
 
 ## Bloques del proyecto
