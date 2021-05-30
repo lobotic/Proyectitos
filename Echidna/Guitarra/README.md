@@ -1,7 +1,7 @@
 # Guitarra
 
 ## Vídeo
-[![Video en Youtube](https://github.com/lobotic/Proyectitos/blob/master/Echidna/Guitarra/Guitarrayoutube.png)](https://www.youtube.com/watch?v=eJZJxQZQ-qY)
+[![Video en Youtube](https://github.com/lobotic/Proyectitos/blob/master/Echidna/Guitarra/guitarrayoutube.png)](https://www.youtube.com/watch?v=eJZJxQZQ-qY)
 
 [![Video en Youtube2](https://github.com/lobotic/Proyectitos/blob/master/Echidna/Guitarra/Guitarrayoutube2.png)](https://www.youtube.com/watch?v=Jyfm02nYR8Y)
 
