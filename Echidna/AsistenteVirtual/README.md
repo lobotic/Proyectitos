@@ -20,3 +20,15 @@
 [Modelo LearningML](https://github.com/lobotic/Proyectitos/blob/master/Echidna/AsistenteVirtual/Asistente)
 
 [Archivo sb3](https://github.com/lobotic/Proyectitos/blob/master/Echidna/AsistenteVirtual/Asistente1.sb3)
+
+[Soporte 3D para servo y LED (stl)](https://github.com/lobotic/Proyectitos/blob/master/Echidna/AsistenteVirtual/soporte/soporte.stl)
+
+[Soporte 3D para servo y LED (scad)](https://github.com/lobotic/Proyectitos/blob/master/Echidna/AsistenteVirtual/soporte/soporte.scad)
+
+[Soporte 3D para servo y LED (bloques BlockScad)](https://github.com/lobotic/Proyectitos/blob/master/Echidna/AsistenteVirtual/soporte/soporte.xml)
+
+
+![Soporte 3D para servo y LED](https://github.com/lobotic/Proyectitos/blob/master/Echidna/AsistenteVirtual/soporte/soporte.jpg)
+![Soporte 3D para servo y LED](https://github.com/lobotic/Proyectitos/blob/master/Echidna/AsistenteVirtual/soporte/soporte1.jpeg)
+![Soporte 3D para servo y LED](https://github.com/lobotic/Proyectitos/blob/master/Echidna/AsistenteVirtual/soporte/soporte2.jpeg)
+![Soporte 3D para servo y LED](https://github.com/lobotic/Proyectitos/blob/master/Echidna/AsistenteVirtual/soporte/soporte3.jpeg)
