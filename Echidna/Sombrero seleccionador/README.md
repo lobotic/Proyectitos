@@ -9,5 +9,5 @@
 
 [Proyecto EchidnaScratch](https://github.com/lobotic/Proyectitos/blob/master/Echidna/Sombrero%20seleccionador/Sombrero_Seleccionador_EchidnaScratch(1).sb3)
 
-[Proyecto EchidnaScratch](https://github.com/lobotic/Proyectitos/blob/master/Echidna/Sombrero%20seleccionador/Sombrero_Seleccionador_EchidnaScratch(2).sb3)
+[Proyecto EchidnaScratch (comentarios)](https://github.com/lobotic/Proyectitos/blob/master/Echidna/Sombrero%20seleccionador/Sombrero_Seleccionador_EchidnaScratch(2).sb3)
 El sombrero hace comentarios antes de dedir la casa.
