@@ -7,6 +7,7 @@
 - [Guitarra](https://github.com/lobotic/Proyectitos/tree/master/Echidna/Guitarra)
 - [Perrobot](https://github.com/lobotic/Proyectitos/tree/master/Echidna/Perrobot)
 - [Asistente Virtual](https://github.com/lobotic/Proyectitos/tree/master/Echidna/AsistenteVirtual)
+- [Sombrero Seleccionador](https://github.com/lobotic/Proyectitos/tree/master/Echidna/Sombrero%20seleccionador)
 
 ## Proyectos de Electricidad
 - [Electrón](https://github.com/lobotic/Proyectitos/tree/master/Electricidad/Electron)
