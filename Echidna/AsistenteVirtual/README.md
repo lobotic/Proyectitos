@@ -19,7 +19,9 @@
 ## Recursos
 [Modelo LearningML](https://github.com/lobotic/Proyectitos/blob/master/Echidna/AsistenteVirtual/Asistente)
 
-[Archivo sb3](https://github.com/lobotic/Proyectitos/blob/master/Echidna/AsistenteVirtual/Asistente1.sb3)
+[Archivo sb3 motor de corriente contínua](https://github.com/lobotic/Proyectitos/blob/master/Echidna/AsistenteVirtual/Asistente1.sb3)
+
+[Archivo sb3 servomotor de rotación contínua](https://github.com/lobotic/Proyectitos/blob/master/Echidna/AsistenteVirtual/Asistente_servo.sb3)
 
 [Soporte 3D para servo y LED (stl)](https://github.com/lobotic/Proyectitos/blob/master/Echidna/AsistenteVirtual/soporte/soporte.stl)
 
