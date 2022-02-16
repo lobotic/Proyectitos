@@ -12,3 +12,6 @@
 
 ## Proyectos de Electricidad
 - [Electrón](https://github.com/lobotic/Proyectitos/tree/master/Electricidad/Electron)
+
+## Gadgets
+- [Encuesta de satisfacción](https://github.com/lobotic/Proyectitos/tree/master/Gadgets/EncuestaSatisfaccion)
