@@ -1,0 +1,24 @@
+#Cochecitos
+### Un juego con EchidnaScratch
+
+## Instrucciones
+- Utiliza D2 en modo MKMK para llevar el cochecito hacia la izquierda
+- Utiliza D3 en modo MKMK para llevar el cochecito hacia la derecha
+- ¡No te salgas de la carretera!
+- Antes de comenzar el juego puedes escoger la dificultad con A0 y A1
+
+## Conexiones
+- A0 : flecha hacia arriba
+- A1 : flecha hacia abajo
+- D2: mover hacia la izquierda
+- D3: Mover hacia la derecha
+
+TO DO incluir foto de conexiones
+
+## Descargar sb3 para EchidnaScratch
+- [Archivo sb3](https://github.com/lobotic/Proyectitos/blob/master/Echidna/Cochecitos/Cochecitos_Echidna.sb3)
+- [Enlace a EchidnaScratch](https://scratch.echidna.es/)
+
+## Diseño previo en Scratch
+Hazte una idea de cómo es el juego con este diseño previo programado en Scratch:
+[![(https://github.com/lobotic/Proyectitos/blob/master/Echidna/Cochecitos/Cochecitos_Echidna.png)]](https://scratch.mit.edu/projects/667858126/)
