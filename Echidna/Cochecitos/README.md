@@ -1,4 +1,4 @@
-#Cochecitos
+# Cochecitos
 ### Un juego con EchidnaScratch
 
 ## Instrucciones
