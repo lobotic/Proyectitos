@@ -21,4 +21,4 @@ TO DO incluir foto de conexiones
 
 ## Diseño previo en Scratch
 Hazte una idea de cómo es el juego con este diseño previo programado en Scratch:
-[![(https://github.com/lobotic/Proyectitos/blob/master/Echidna/Cochecitos/Cochecitos_Echidna.png)]](https://scratch.mit.edu/projects/667858126/)
+[![(https://github.com/lobotic/Proyectitos/blob/master/Echidna/Cochecitos/cochecitos.png)]](https://scratch.mit.edu/projects/667858126/)
