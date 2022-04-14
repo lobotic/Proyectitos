@@ -12,8 +12,8 @@
 - A1 : flecha hacia abajo
 - D2: mover hacia la izquierda
 - D3: Mover hacia la derecha
-
-TO DO incluir foto de conexiones
+- MKMK: Persona que va a jugar
+![conexiones](https://github.com/lobotic/Proyectitos/blob/master/Echidna/Cochecitos/conexiones.jpeg)
 
 ## Descargar sb3 para EchidnaScratch
 - [Archivo sb3](https://github.com/lobotic/Proyectitos/blob/master/Echidna/Cochecitos/Cochecitos_Echidna.sb3)
