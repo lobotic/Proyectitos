@@ -22,3 +22,6 @@
 ## Diseño previo en Scratch
 Hazte una idea de cómo es el juego con este diseño previo programado en Scratch:
 [![cochecitos](https://github.com/lobotic/Proyectitos/blob/master/Echidna/Cochecitos/cochecitos.png)](https://scratch.mit.edu/projects/667858126/)
+
+## Vídeo
+[![Imagen youtube](https://github.com/lobotic/Proyectitos/blob/master/Echidna/Cochecitos/youtube.png)](https://www.youtube.com/watch?v=HMeUp9o4Ojw)
