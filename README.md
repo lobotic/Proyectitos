@@ -1,14 +1,17 @@
 # Proyectitos
 **Proyectos educativos sencillos**
 
-## Proyectos con Echidna
+## Proyectos con Echidna para clase
 - [Elefante](https://github.com/lobotic/Proyectitos/tree/master/Echidna/Elefante)
 - [Zombiebot](https://github.com/lobotic/Proyectitos/tree/master/Echidna/Zombiebot)
 - [Guitarra](https://github.com/lobotic/Proyectitos/tree/master/Echidna/Guitarra)
 - [Perrobot](https://github.com/lobotic/Proyectitos/tree/master/Echidna/Perrobot)
 - [Asistente Virtual](https://github.com/lobotic/Proyectitos/tree/master/Echidna/AsistenteVirtual)
-- [Sombrero Seleccionador](https://github.com/lobotic/Proyectitos/tree/master/Echidna/Sombrero%20seleccionador)
 - [Helicóptero](https://github.com/lobotic/Proyectitos/tree/master/Echidna/Helicoptero)
+
+
+## Proyectos con Echidna 
+- [Sombrero Seleccionador](https://github.com/lobotic/Proyectitos/tree/master/Echidna/Sombrero%20seleccionador)
 - [Cochecitos](https://github.com/lobotic/Proyectitos/tree/master/Echidna/Cochecitos)
 - [Escornabot IA](https://github.com/lobotic/Proyectitos/tree/master/Echidna/IA%20Escornabot)
 
