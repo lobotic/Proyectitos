@@ -10,6 +10,7 @@
 - [Sombrero Seleccionador](https://github.com/lobotic/Proyectitos/tree/master/Echidna/Sombrero%20seleccionador)
 - [Helicóptero](https://github.com/lobotic/Proyectitos/tree/master/Echidna/Helicoptero)
 - [Cochecitos](https://github.com/lobotic/Proyectitos/tree/master/Echidna/Cochecitos)
+- [Escornabot IA](https://github.com/lobotic/Proyectitos/tree/master/Echidna/IA%20Escornabot)
 
 ## Proyectos de Electricidad
 - [Electrón](https://github.com/lobotic/Proyectitos/tree/master/Electricidad/Electron)
