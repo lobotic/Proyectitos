@@ -7,3 +7,5 @@
 ## Presentación
 [Presentación en PDF con los pasos de la construcción](https://github.com/lobotic/Proyectitos/blob/master/Echidna/Dragon/Dragón.pdf)
 
+## Recursos
+[Proyecto sb3 para echidnascratch](https://github.com/lobotic/Proyectitos/blob/master/Echidna/Dragon/dragon.sb3)
