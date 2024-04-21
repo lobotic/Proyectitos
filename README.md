@@ -9,6 +9,7 @@
 - [Asistente Virtual](https://github.com/lobotic/Proyectitos/tree/master/Echidna/AsistenteVirtual)
 - [Helicóptero](https://github.com/lobotic/Proyectitos/tree/master/Echidna/Helicoptero)
 - [Dragón](https://github.com/lobotic/Proyectitos/tree/master/Echidna/Dragon)
+- [Observatorio](https://github.com/lobotic/Proyectitos/tree/master/Echidna/Observatorio)
 
 
 ## Proyectos con Echidna 
