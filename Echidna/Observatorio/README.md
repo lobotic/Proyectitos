@@ -12,4 +12,4 @@
 
 [Planisferio](https://github.com/lobotic/Proyectitos/blob/master/Echidna/Observatorio/planisferio1.pdf)          
 
-[Pproyecto en Echidna ML (.sb3)]([https://github.com/lobotic/Proyectitos/blob/master/Echidna/Observatorio/planisferio1.pdf](https://github.com/lobotic/Proyectitos/blob/master/Echidna/Observatorio/Observatorio.sb3))        
+[Proyecto en Echidna ML .sb3]([https://github.com/lobotic/Proyectitos/blob/master/Echidna/Observatorio/planisferio1.pdf](https://github.com/lobotic/Proyectitos/blob/master/Echidna/Observatorio/Observatorio.sb3))        
