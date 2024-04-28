@@ -9,4 +9,5 @@
 
 ## Recursos
 [Plantilla del telescopio](https://github.com/lobotic/Proyectitos/blob/master/Echidna/Observatorio/telescopio/telescopio.pdf)
+
 [Planisferio](https://github.com/lobotic/Proyectitos/blob/master/Echidna/Observatorio/planisferio1.pdf)          
