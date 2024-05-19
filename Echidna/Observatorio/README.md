@@ -5,7 +5,7 @@
 
 
 ## Presentación
-[Presentación en pdf](https://github.com/lobotic/Proyectitos/blob/master/Echidna/Observatorio/Observatorio%20Astron%C3%B3mico.pdf)
+[Presentación en pdf de un taller para programar el movimiento del telescopio con Echidna y EchidnaML](https://github.com/lobotic/Proyectitos/blob/master/Echidna/Observatorio/Observatorio%20Astron%C3%B3mico.pdf)
 
 ## Recursos
 [Plantilla del telescopio](https://github.com/lobotic/Proyectitos/blob/master/Echidna/Observatorio/telescopio/telescopio.pdf)
