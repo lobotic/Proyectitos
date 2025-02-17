@@ -1,5 +1,5 @@
 # IA: Alimento de perros y gatos
-[![IA: Alimento de perros y gatos](https://github.com/lobotic/Proyectitos/blob/master/Echidna/IA_Perro_Gato/IA_Pero_Gato.jpg)]
+![IA: Alimento de perros y gatos](https://github.com/lobotic/Proyectitos/blob/master/Echidna/IA_Perro_Gato/IA_Pero_Gato.jpg)
 
 ## Vídeo
 [Video en Youtube](https://www.youtube.com/watch?v=cfjouotJt2o)
@@ -17,4 +17,4 @@
 
 [Código OpenCAD](https://github.com/lobotic/Proyectitos/blob/master/Echidna/IA_Perro_Gato/Perrobot20.scad)
 
-[![Perrobot 2.0](https://github.com/lobotic/Proyectitos/blob/master/Echidna/IA_Perro_Gato/Perrobot20.jpg)]
+![Perrobot 2.0](https://github.com/lobotic/Proyectitos/blob/master/Echidna/IA_Perro_Gato/Perrobot20.jpg)
