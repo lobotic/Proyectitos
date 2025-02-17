@@ -9,6 +9,9 @@
 
 ## 3D Perrobot 2.0
 [STL](https://github.com/lobotic/Proyectitos/blob/master/Echidna/IA_Perro_Gato/Perrobot20.stl)
+
 [Bloques BlockCAD](https://github.com/lobotic/Proyectitos/blob/master/Echidna/IA_Perro_Gato/Perrobot20.xml)
+
 [Código OpenCAD](https://github.com/lobotic/Proyectitos/blob/master/Echidna/IA_Perro_Gato/Perrobot20.scad)
-![[Perrobot 2.0](https://github.com/lobotic/Proyectitos/blob/master/Echidna/IA_Perro_Gato/Perrobot20.jpg)]
+
+[![Perrobot 2.0](https://github.com/lobotic/Proyectitos/blob/master/Echidna/IA_Perro_Gato/Perrobot20.jpg)]
