@@ -5,7 +5,7 @@
 [Presentación en PDF con los pasos de la construcción](https://github.com/lobotic/Proyectitos/blob/master/Echidna/IA_Perro_Gato/IA-Perro-Gato.pdf)
 
 ## Ficha
-[Ficha fotocopiable para la maqueta](https://github.com/lobotic/Proyectitos/blob/master/Echidna/IA_Perro_Gato/Ficha-Perro-Gato.pdf)
+[Ficha fotocopiable para la maqueta](https://github.com/lobotic/Proyectitos/blob/master/Echidna/IA_Perro_Gato/Ficha_Perro_Gato.pdf)
 
 ## 3D Perrobot 2.0
 [STL](https://github.com/lobotic/Proyectitos/blob/master/Echidna/IA_Perro_Gato/Perrobot20.stl)
