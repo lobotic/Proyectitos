@@ -10,7 +10,7 @@
 ## Ficha
 [Ficha fotocopiable para la maqueta](https://github.com/lobotic/Proyectitos/blob/master/Echidna/IA_Perro_Gato/Ficha_Perro_Gato.pdf)
 
-## 3D Perrobot 2.0
+## 3D Perrobot 2.0 sg90
 [STL](https://github.com/lobotic/Proyectitos/blob/master/Echidna/IA_Perro_Gato/Perrobot20.stl)
 
 [Bloques BlockCAD](https://github.com/lobotic/Proyectitos/blob/master/Echidna/IA_Perro_Gato/Perrobot20.xml)
@@ -18,3 +18,12 @@
 [Código OpenCAD](https://github.com/lobotic/Proyectitos/blob/master/Echidna/IA_Perro_Gato/Perrobot20.scad)
 
 ![Perrobot 2.0](https://github.com/lobotic/Proyectitos/blob/master/Echidna/IA_Perro_Gato/Perrobot20.jpg)
+
+## 3D Perrobot 2.0 Emax
+[STL](https://github.com/lobotic/Proyectitos/blob/master/Echidna/IA_Perro_Gato/Perrobot20Emax.stl)
+
+[Bloques BlockCAD](https://github.com/lobotic/Proyectitos/blob/master/Echidna/IA_Perro_Gato/Perrobot20Emax.xml)
+
+[Código OpenCAD](https://github.com/lobotic/Proyectitos/blob/master/Echidna/IA_Perro_Gato/Perrobot20Emax.scad)
+
+![Perrobot 2.0](https://github.com/lobotic/Proyectitos/blob/master/Echidna/IA_Perro_Gato/Perrobot20Emax.jpg)
