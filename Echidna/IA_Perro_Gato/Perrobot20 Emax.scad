@@ -1,14 +1,16 @@
 ﻿//!OpenSCAD
 
 difference() {
-  translate([-2, -2, -7]){
-    cube([27.5, 16.5, 23], center=false);
+  translate([-1, -2, -7]){
+    cube([25.5, 16.5, 23], center=false);
   }
 
   union(){
-    cube([27, 12.5, 16], center=false);
+    translate([1, 0, 0]){
+      cube([27, 12, 16], center=false);
+    }
     translate([17, 0, -5]){
-      cube([2.7, 12.5, 21], center=false);
+      cube([1.7, 12, 21], center=false);
     }
   }
 }
@@ -24,6 +26,9 @@ difference() {
     }
 
   }
+}
+translate([90, -37, -7]){
+  cube([10, 86.5, 2], center=false);
 }
 translate([90, -37, -7]){
   cube([10, 86.5, 2], center=false);
