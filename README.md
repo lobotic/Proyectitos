@@ -20,6 +20,7 @@
 
 ## Proyectos de Electricidad
 - [Electrón](https://github.com/lobotic/Proyectitos/tree/master/Electricidad/Electron)
+- [Walking Enredadera](https://github.com/lobotic/Proyectitos/tree/master/Electricidad/WalkingEnredadera)
 
 ## Gadgets
 - [Encuesta de satisfacción](https://github.com/lobotic/Proyectitos/tree/master/Gadgets/EncuestaSatisfaccion)
