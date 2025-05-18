@@ -13,7 +13,7 @@
 ## Bloques del proyecto
 ![ImagenBloques](https://github.com/lobotic/Proyectitos/blob/master/Echidna/BarreraIA/BarreraIAEchidnaML.jpg)
 
-## Ficha matriculas
+## Ficha matrículas
 Ficha con matrículas en blanco para entrenar el modelo. Para facilitar el reconocimiento, en el ejemplo se han hecho matriculas con diferentes formas geométricas.
 
-[Matriculas](https://github.com/lobotic/Proyectitos/blob/master/Echidna/BarreraIA/matriculas.pdf)
+[Matrículas](https://github.com/lobotic/Proyectitos/blob/master/Echidna/BarreraIA/matriculas.pdf)
