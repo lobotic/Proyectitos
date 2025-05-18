@@ -11,6 +11,7 @@
 - [Dragón](https://github.com/lobotic/Proyectitos/tree/master/Echidna/Dragon)
 - [Observatorio](https://github.com/lobotic/Proyectitos/tree/master/Echidna/Observatorio)
 - [IA: Alimentos para perros y gatos](https://github.com/lobotic/Proyectitos/tree/master/Echidna/IA_Perro_Gato)
+- [Barrera de parking con IA](https://github.com/lobotic/Proyectitos/tree/master/Echidna/BarreraIA)
 
 
 ## Proyectos con Echidna 
