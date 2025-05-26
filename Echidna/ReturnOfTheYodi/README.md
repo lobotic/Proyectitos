@@ -1,5 +1,5 @@
 # Return of the Yodi
-![Imagen](https://github.com/lobotic/Proyectitos/blob/master/Echidna/ReturnOfTheYodi/ReturnoftheYodi.png)
+![Imagen](https://github.com/lobotic/Proyectitos/blob/master/Echidna/ReturnOfTheYodi/ReturnoftheYodi.jpg)
 
 ## Vídeo de programación
 [![Video en Youtube](https://github.com/lobotic/Proyectitos/blob/master/Echidna/ReturnOfTheYodi/ReturnoftheYodi.png)](https://www.youtube.com/watch?v=JH5gReWnqcE)
