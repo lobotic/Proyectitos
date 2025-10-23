@@ -12,6 +12,7 @@
 - [Observatorio](https://github.com/lobotic/Proyectitos/tree/master/Echidna/Observatorio)
 - [IA: Alimentos para perros y gatos](https://github.com/lobotic/Proyectitos/tree/master/Echidna/IA_Perro_Gato)
 - [Barrera de parking con IA](https://github.com/lobotic/Proyectitos/tree/master/Echidna/BarreraIA)
+- [Happy Halloween 2025](https://github.com/lobotic/Proyectitos/tree/master/Echidna/Happy_Halloween_25)
 
 
 ## Proyectos con Echidna 
