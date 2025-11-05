@@ -17,5 +17,5 @@ Actividad pensada para que el alumnado se inicie con la placa EchidnaBlack sin n
 
 - [Ficha con flechas para facilitar conexiones](https://github.com/lobotic/Proyectitos/blob/master/Echidna/Happy_Halloween_25/HAPPY%20HALLOWEEN!%2025%20MakeyMakey.pdf)
 - [Tutorial específico Makey Makey](https://github.com/lobotic/Proyectitos/blob/master/Echidna/Happy_Halloween_25/Halloween%202025%20Makey%20Makey%202.pdf)
-- [Infografía Happy Halloween Makey Makey](https://github.com/lobotic/Proyectitos/blob/master/Echidna/Happy_Halloween_25/HAPPY%20HALLOWEEN%20Makey%20Makey.png)](https://github.com/lobotic/Proyectitos/blob/master/Echidna/Happy_Halloween_25/HAPPY%20HALLOWEEN%20Makey%20Makey.pdf)
+- [Infografía Happy Halloween Makey Makey](https://github.com/lobotic/Proyectitos/blob/master/Echidna/Happy_Halloween_25/HAPPY%20HALLOWEEN%20Makey%20Makey.pdf)
 [![Infografía Happy Halloween Makey Makey](https://github.com/lobotic/Proyectitos/blob/master/Echidna/Happy_Halloween_25/HAPPY%20HALLOWEEN%20Makey%20Makey.png)](https://github.com/lobotic/Proyectitos/blob/master/Echidna/Happy_Halloween_25/HAPPY%20HALLOWEEN%20Makey%20Makey.pdf)
