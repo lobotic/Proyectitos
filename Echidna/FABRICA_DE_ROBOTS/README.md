@@ -1,6 +1,7 @@
 # Fábrica de robots
 
 [Proyecto Sb3 para EchidnaML](https://github.com/lobotic/Proyectitos/blob/master/Echidna/FABRICA_DE_ROBOTS/FABRICA_DE_ROBOTS.sb3)
+[Proyecto en Scratch para diseñar el robot con techas de flechas y espacio](https://scratch.mit.edu/projects/1243835659/)
 
 ## Fichas imprimibles
 - [Panel de control A3](https://github.com/lobotic/Proyectitos/blob/master/Echidna/FABRICA_DE_ROBOTS/PANEL_DE_CONTROL_A3.pdf): Panel de control para imprimir en A3 pensado para mostrar el funcionamiento del proyecto en gran grupo.
