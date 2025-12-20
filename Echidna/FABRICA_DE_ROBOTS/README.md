@@ -8,4 +8,4 @@
 - [Panel de control individual sin robot](https://github.com/lobotic/Proyectitos/blob/master/Echidna/FABRICA_DE_ROBOTS/PANEL_DE_CONTROL_INDIVIDUAL_VACIO.pdf):Panel de control para trabajo individual. Tiene huecos diseñados paradibujar al robot que se ha diseñado.
 - [Imagen robot para Infantil](https://github.com/lobotic/Proyectitos/blob/master/Echidna/FABRICA_DE_ROBOTS/ROBOTS_PARA_INFANTIL.pdf): Imágenes de robots con huecos diseñados para pegar pegatinas que representen al robot que se ha diseñado y luego poder colorearlo. Sin conectores.
 
-- ![[Ejemplos Robots coloreados por alumnado de Infantil](https://github.com/lobotic/Proyectitos/blob/master/Echidna/FABRICA_DE_ROBOTS/ROBOTITOS.jpeg)]
+- ![Ejemplos Robots coloreados por alumnado de Infantil](https://github.com/lobotic/Proyectitos/blob/master/Echidna/FABRICA_DE_ROBOTS/ROBOTITOS.jpeg)
