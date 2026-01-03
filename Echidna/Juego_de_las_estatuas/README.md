@@ -13,7 +13,7 @@ El proyecto incluye además una guía de construcción paso a paso creada con Le
 
 ## Vídeo
 
-![[Imagen Youtube](https://github.com/lobotic/Proyectitos/blob/master/Echidna/Juego_de_las_estatuas/juegoestatuasYT.png)](https://youtu.be/pPiLZwTz-y8)
+![[Imagen Youtube]](https://github.com/lobotic/Proyectitos/blob/master/Echidna/Juego_de_las_estatuas/juegoestatuasYT.png)](https://youtu.be/pPiLZwTz-y8)
 
 ## Archivo EchidnaML
 
