@@ -16,6 +16,8 @@
 
 ## Proyectos con Echidna y construcciones
 - [Gallo despertador](https://github.com/lobotic/Proyectitos/tree/master/Echidna/GalloDespertador)
+- [Juego de las estatuas](https://github.com/lobotic/Proyectitos/tree/master/Echidna/HelicopteroAcelerometro)
+- [Helicóptero con acelerómetro](https://github.com/lobotic/Proyectitos/tree/master/Echidna/HelicopteroAcelerometro)
 
 
 ## Proyectos con Echidna 
