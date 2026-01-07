@@ -1,5 +1,7 @@
 # Helicóptero con acelerómetro
 
+![Portada](https://github.com/lobotic/Proyectitos/blob/master/Echidna/HelicopteroAcelerometro/portadahelicopteroacelerometro.jpg)
+
 En este proyecto con bloques de construcción se ha creado un helicóptero que combina movimiento físico y representación virtual. El modelo cuenta con una hélice accionada por un motor de corriente continua y un giro lateral controlado por un servomotor.
 El movimiento a izquierda y derecha se controla mediante el acelerómetro integrado en la placa, haciendo que el helicóptero responda directamente a la inclinación de la misma. Esta misma información del acelerómetro se reutiliza en una versión virtual del modelo, integrada como avatar en un pequeño videojuego programado en EchidnaML.
 
