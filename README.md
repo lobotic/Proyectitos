@@ -18,7 +18,7 @@
 - [Gallo despertador](https://github.com/lobotic/Proyectitos/tree/master/Echidna/GalloDespertador)
 - [Juego de las estatuas](https://github.com/lobotic/Proyectitos/tree/master/Echidna/HelicopteroAcelerometro)
 - [Helicóptero con acelerómetro](https://github.com/lobotic/Proyectitos/tree/master/Echidna/HelicopteroAcelerometro)
-
+- [Barrera automática](https://github.com/lobotic/Proyectitos/tree/master/Echidna/BarreraAutomatica)
 
 ## Proyectos con Echidna 
 - [Sombrero Seleccionador](https://github.com/lobotic/Proyectitos/tree/master/Echidna/Sombrero%20seleccionador)
