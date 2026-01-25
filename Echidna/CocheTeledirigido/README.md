@@ -12,7 +12,7 @@ El control del vehículo se realiza con el joystick integrado en la EchidnaBlack
 
 ## Guía de montaje
 
-![Gif animado con las instrucciones paso a paso](https://github.com/lobotic/Proyectitos/blob/master/Echidna/CocheTeledirigido/CocheTeledirigidoLPub3D_150_DPI.gif)
+![Gif animado con las instrucciones paso a paso](https://github.com/lobotic/Proyectitos/blob/master/Echidna/CocheTeledirigido/CocheTeledirigido.gif)
 
 [Instrucciones en PDF](https://github.com/lobotic/Proyectitos/blob/master/Echidna/CocheTeledirigido/CocheTeledirigidoLPub3D_150_DPI.pdf)
 
