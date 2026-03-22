@@ -14,4 +14,4 @@
 4. Coloca la pila de modo que la cara + toque la pista positiva. Fíjala con un poco de cinta.
 5. La pestaña que hemos pegado hace de interruptor para que la pila quede presionada y cierre el circuito.Cuando la pila haga contacto con ambas pistas, el LED debería encenderse.
 
-[!(https://github.com/lobotic/Proyectitos/blob/master/Electricidad/FichasC%26C/c%26CYT.png)](https://youtu.be/gRZdCIsGgrM)
+[![Imagen YT](https://github.com/lobotic/Proyectitos/blob/master/Electricidad/FichasC%26C/c%26CYT.png)](https://youtu.be/gRZdCIsGgrM)
