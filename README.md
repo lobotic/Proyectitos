@@ -13,6 +13,7 @@
 - [IA: Alimentos para perros y gatos](https://github.com/lobotic/Proyectitos/tree/master/Echidna/IA_Perro_Gato)
 - [Barrera de parking con IA](https://github.com/lobotic/Proyectitos/tree/master/Echidna/BarreraIA)
 - [Happy Halloween 2025](https://github.com/lobotic/Proyectitos/tree/master/Echidna/Happy_Halloween_25)
+- [El Laboratorio del Dr. Frankestein](https://github.com/lobotic/Proyectitos/tree/master/Echidna/LaboratorioFrankestein)
 
 ## Proyectos con Echidna y construcciones
 - [Gallo despertador](https://github.com/lobotic/Proyectitos/tree/master/Echidna/GalloDespertador)
