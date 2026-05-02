@@ -7,6 +7,7 @@ En el laboratorio de Frankenstein probaremos la conductividad de los materiales,
 
 Esta actividad parte de una idea original de José Manuel Padilla y se ha desarrollado con la colaboración de Susana Alonso y Eva Marín.
 
+## Vídeo
 [![Portada del vídeo en youtube](https://github.com/lobotic/Proyectitos/blob/master/Echidna/LaboratorioFrankestein/laboratorioFrankesteinYT.png)](https://youtu.be/lxrw2IbM4Zk)
 
 # Recursos
