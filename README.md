@@ -21,6 +21,7 @@
 - [Helicóptero con acelerómetro](https://github.com/lobotic/Proyectitos/tree/master/Echidna/HelicopteroAcelerometro)
 - [Barrera automática](https://github.com/lobotic/Proyectitos/tree/master/Echidna/BarreraAutomatica)
 - [Coche Teledirigido](https://github.com/lobotic/Proyectitos/tree/master/Echidna/CocheTeledirigido)
+- [Rotógrafo](https://github.com/lobotic/Proyectitos/tree/master/Echidna/rotografo)
 
 ## Proyectos con Echidna 
 - [Sombrero Seleccionador](https://github.com/lobotic/Proyectitos/tree/master/Echidna/Sombrero%20seleccionador)
