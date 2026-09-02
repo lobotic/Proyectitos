@@ -22,6 +22,7 @@
 - [Barrera automática](https://github.com/lobotic/Proyectitos/tree/master/Echidna/BarreraAutomatica)
 - [Coche Teledirigido](https://github.com/lobotic/Proyectitos/tree/master/Echidna/CocheTeledirigido)
 - [Rotógrafo](https://github.com/lobotic/Proyectitos/tree/master/Echidna/rotografo)
+- [Caja fuerte con reconocimiento facial](https://github.com/lobotic/Proyectitos/tree/master/Echidna/CajaFuerte)
 
 ## Proyectos con Echidna 
 - [Sombrero Seleccionador](https://github.com/lobotic/Proyectitos/tree/master/Echidna/Sombrero%20seleccionador)
