@@ -13,6 +13,8 @@ El estado del sensor se refleja también en la pantalla de EchidnaML: cuando llu
 
 [Instrucciones en PDF](https://github.com/lobotic/Proyectitos/blob/master/Echidna/EchidnaBricks/Tendedero/tendedero.pdf)
 
+[Lista de piezas (CSV)](https://github.com/lobotic/Proyectitos/blob/master/Echidna/EchidnaBricks/Tendedero/tendedero.csv)
+
 ## Proyecto en EchidnaML
 
 [Descarga el archivo .sb3 para EchidnaML](https://github.com/lobotic/Proyectitos/blob/master/Echidna/EchidnaBricks/Tendedero/tendedero.sb3)
