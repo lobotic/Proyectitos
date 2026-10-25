@@ -16,13 +16,13 @@
 - [El Laboratorio del Dr. Frankestein](https://github.com/lobotic/Proyectitos/tree/master/Echidna/LaboratorioFrankestein)
 
 ## Proyectos con Echidna y construcciones
-- [Gallo despertador](https://github.com/lobotic/Proyectitos/tree/master/Echidna/GalloDespertador)
-- [Juego de las estatuas](https://github.com/lobotic/Proyectitos/tree/master/Echidna/HelicopteroAcelerometro)
-- [Helicóptero con acelerómetro](https://github.com/lobotic/Proyectitos/tree/master/Echidna/HelicopteroAcelerometro)
-- [Barrera automática](https://github.com/lobotic/Proyectitos/tree/master/Echidna/BarreraAutomatica)
-- [Coche Teledirigido](https://github.com/lobotic/Proyectitos/tree/master/Echidna/CocheTeledirigido)
-- [Rotógrafo](https://github.com/lobotic/Proyectitos/tree/master/Echidna/rotografo)
-- [Caja fuerte con reconocimiento facial](https://github.com/lobotic/Proyectitos/tree/master/Echidna/CajaFuerte)
+- [Gallo despertador](https://github.com/lobotic/Proyectitos/tree/master/Echidna/EchidnaBricks/GalloDespertador)
+- [Juego de las estatuas](https://github.com/lobotic/Proyectitos/tree/master/Echidna/EchidnaBricks/Juego_de_las_estatuas)
+- [Helicóptero con acelerómetro](https://github.com/lobotic/Proyectitos/tree/master/Echidna/EchidnaBricks/HelicopteroAcelerometro)
+- [Barrera automática](https://github.com/lobotic/Proyectitos/tree/master/Echidna/EchidnaBricks/BarreraAutomatica)
+- [Coche Teledirigido](https://github.com/lobotic/Proyectitos/tree/master/Echidna/EchidnaBricks/CocheTeledirigido)
+- [Rotógrafo](https://github.com/lobotic/Proyectitos/tree/master/Echidna/EchidnaBricks/rotografo)
+- [Caja fuerte con reconocimiento facial](https://github.com/lobotic/Proyectitos/tree/master/Echidna/EchidnaBricks/CajaFuerte)
 - [Tendedero automático](https://github.com/lobotic/Proyectitos/tree/master/Echidna/EchidnaBricks/Tendedero)
 
 ## Proyectos con Echidna 
