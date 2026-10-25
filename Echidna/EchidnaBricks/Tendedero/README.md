@@ -7,6 +7,10 @@ El sensor de humedad conectado a la entrada analógica A2 detecta el agua, y cua
 
 Como posibilidad de ampliación, el estado del sensor se refleja también en la pantalla de EchidnaML: cuando llueve cambia el fondo y empiezan a caer gotas, conectando el modelo físico con su representación virtual.
 
+## Vídeo
+
+[![Imagen de Youtube](tendederoyoutube.png)](https://youtu.be/askY4YvSLC0)
+
 ## Guía de montaje
 
 ![Gif animado con las instrucciones paso a paso](tendedero.gif)
@@ -16,5 +20,13 @@ Como posibilidad de ampliación, el estado del sensor se refleja también en la 
 [Lista de piezas (CSV)](tendedero.csv)
 
 ## Proyecto en EchidnaML
+
+Programa principal: control del tendedero según la lectura del sensor de humedad.
+
+![Programa principal](programaprincipal.png)
+
+Ampliación: gotas de lluvia en pantalla mientras llueve.
+
+![Programa de las gotas de lluvia](prgramagotas.png)
 
 [Descarga el archivo .sb3 para EchidnaML](tendedero.sb3)
