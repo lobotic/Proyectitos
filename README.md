@@ -24,6 +24,7 @@
 - [Rotógrafo](https://github.com/lobotic/Proyectitos/tree/master/Echidna/EchidnaBricks/rotografo)
 - [Caja fuerte con reconocimiento facial](https://github.com/lobotic/Proyectitos/tree/master/Echidna/EchidnaBricks/CajaFuerte)
 - [Tendedero automático](https://github.com/lobotic/Proyectitos/tree/master/Echidna/EchidnaBricks/Tendedero)
+- [Calavera de Halloween](https://github.com/lobotic/Proyectitos/tree/master/Echidna/EchidnaBricks/Calavera)
 
 ## Proyectos con Echidna 
 - [Sombrero Seleccionador](https://github.com/lobotic/Proyectitos/tree/master/Echidna/Sombrero%20seleccionador)
