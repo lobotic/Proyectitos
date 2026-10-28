@@ -2,9 +2,9 @@
 
 ![Imagen de la calavera](calavera.png)
 
-En este proyecto de Halloween, una calavera de bloques de construcción controlada por la placa EchidnaBlack2 decide cuando llamamos a una casa para hacer "Truco o Trato", si aceptamos su trato o le damos un buen susto. Mediante un modelo de texto entrenado en LearningML, se detecta si la respuesta a la pregunta «¿Truco o trato?» es amable o si, por el contrario, se merece un susto.
+En este proyecto de Halloween, una calavera de bloques de construcción controlada por la placa EchidnaBlack2 decide cuando llamamos a una casa para hacer "Truco o Trato", si aceptamos su trato o le damos un buen susto. Mediante un modelo de texto entrenado en LearningML, se detecta si la respuesta a la pregunta "¿Truco o trato?" es amable o si, por el contrario, se merece un susto.
 
-Si la respuesta es amable, el cartel superior muestra «Trato». Si no lo es, el servomotor gira el cartel a la posición de «Truco» y los ojos de la calavera se ponen rojos, gracias a que el mismo giro coloca unos bloques de construcción rojos justo detrás de los huecos de los ojos.
+Si la respuesta es amable, el cartel superior muestra "Trato". Si no lo es, el servomotor gira el cartel a la posición de "Truco" y los ojos de la calavera se ponen rojos, gracias a que el mismo giro coloca unos bloques de construcción rojos justo detrás de los huecos de los ojos.
 
 ## Vídeo
 
