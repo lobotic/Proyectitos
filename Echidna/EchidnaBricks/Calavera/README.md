@@ -6,6 +6,10 @@ En este proyecto de Halloween, una calavera de bloques de construcción controla
 
 Si la respuesta es amable, el cartel superior muestra «Trato». Si no lo es, el servomotor gira el cartel a la posición de «Truco» y los ojos de la calavera se ponen rojos, gracias a que el mismo giro coloca unos bloques de construcción rojos justo detrás de los huecos de los ojos.
 
+## Vídeo
+
+[![Imagen de Youtube](caratulayoutube.png)](https://youtu.be/qUjEMkBpj54)
+
 ## Guía de montaje
 
 ![Gif animado con las instrucciones paso a paso](calavera.gif)
