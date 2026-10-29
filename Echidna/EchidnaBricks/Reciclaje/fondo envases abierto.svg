@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="360" viewBox="0 0 480 360">
+  <!-- Cielo y suelo -->
+  <rect x="0" y="0" width="480" height="360" fill="#dff1fb"/>
+  <ellipse cx="80" cy="55" rx="38" ry="14" fill="#ffffff"/>
+  <ellipse cx="105" cy="45" rx="26" ry="14" fill="#ffffff"/>
+  <ellipse cx="370" cy="70" rx="42" ry="15" fill="#ffffff"/>
+  <ellipse cx="395" cy="60" rx="26" ry="13" fill="#ffffff"/>
+  <rect x="0" y="285" width="480" height="75" fill="#c9c9c9"/>
+  <rect x="0" y="285" width="480" height="5" fill="#a8a8a8"/>
+
+  <!-- Papel (azul) -->
+  <g>
+    <path d="M45,140 L155,140 L150,300 L50,300 Z" fill="#1e6fd9" stroke="#0f4a99" stroke-width="3" stroke-linejoin="round"/>
+    <rect x="40" y="122" width="120" height="22" rx="6" fill="#0f4a99"/>
+    <rect x="70" y="158" width="60" height="9" rx="4" fill="#0a2f63"/>
+    <rect x="86" y="180" width="28" height="34" fill="#ffffff" stroke="#0f4a99" stroke-width="2"/>
+    <line x1="91" y1="189" x2="109" y2="189" stroke="#7aa6e0" stroke-width="2"/>
+    <line x1="91" y1="196" x2="109" y2="196" stroke="#7aa6e0" stroke-width="2"/>
+    <line x1="91" y1="203" x2="103" y2="203" stroke="#7aa6e0" stroke-width="2"/>
+    <rect x="56" y="228" width="88" height="28" rx="6" fill="#ffffff"/>
+    <text x="100" y="248" font-family="Sans Serif" font-size="16" font-weight="bold" fill="#0f4a99" text-anchor="middle">PAPEL</text>
+    <circle cx="65" cy="302" r="8" fill="#333333"/>
+    <circle cx="135" cy="302" r="8" fill="#333333"/>
+  </g>
+
+  <!-- Vidrio (verde) -->
+  <g>
+    <path d="M185,140 L295,140 L290,300 L190,300 Z" fill="#2e9e44" stroke="#1d6b2d" stroke-width="3" stroke-linejoin="round"/>
+    <rect x="180" y="122" width="120" height="22" rx="6" fill="#1d6b2d"/>
+    <circle cx="240" cy="164" r="11" fill="#0f3d19"/>
+    <path d="M235,178 L245,178 L245,188 Q253,192 253,200 L253,216 L227,216 L227,200 Q227,192 235,188 Z" fill="#bff0c9" stroke="#1d6b2d" stroke-width="2" stroke-linejoin="round"/>
+    <rect x="196" y="228" width="88" height="28" rx="6" fill="#ffffff"/>
+    <text x="240" y="248" font-family="Sans Serif" font-size="16" font-weight="bold" fill="#1d6b2d" text-anchor="middle">VIDRIO</text>
+    <circle cx="205" cy="302" r="8" fill="#333333"/>
+    <circle cx="275" cy="302" r="8" fill="#333333"/>
+  </g>
+
+  <!-- Envases (amarillo) -->
+  <g>
+    <path d="M325,140 L435,140 L430,300 L330,300 Z" fill="#f5c400" stroke="#b38f00" stroke-width="3" stroke-linejoin="round"/>
+    <rect x="325" y="136" width="110" height="12" rx="4" fill="#5c4a00"/>
+    <rect x="320" y="122" width="120" height="22" rx="6" fill="#b38f00" transform="rotate(50 440 128)"/>
+    <rect x="360" y="155" width="40" height="18" rx="9" fill="#5c4a00"/>
+    <rect x="366" y="182" width="28" height="34" rx="4" fill="#e6e6e6" stroke="#b38f00" stroke-width="2"/>
+    <rect x="366" y="192" width="28" height="12" fill="#e05a2b"/>
+    <rect x="336" y="228" width="88" height="28" rx="6" fill="#ffffff"/>
+    <text x="380" y="248" font-family="Sans Serif" font-size="16" font-weight="bold" fill="#8a6e00" text-anchor="middle">ENVASES</text>
+    <circle cx="345" cy="302" r="8" fill="#333333"/>
+    <circle cx="415" cy="302" r="8" fill="#333333"/>
+  </g>
+</svg>
