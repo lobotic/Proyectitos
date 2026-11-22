@@ -38,8 +38,8 @@ El tercer script saluda ("¡Hola!", "Vamos a repasar músculos y huesos", "Empez
 3. Si la lista de esa categoría todavía tiene palabras, elige una posición al azar, la guarda en la variable `Pregunta` y el personaje dice la palabra que hay en esa posición.
 4. Espera hasta que se pulse el botón SL o el botón SR de la placa.
 5. Comprueba la respuesta:
-   * Si la palabra es un hueso, la respuesta correcta es SL. El servomotor gira a 120º para señalar los huesos.
-   * Si la palabra es un músculo, la respuesta correcta es SR. El servomotor gira a 60º para señalar los músculos.
+   * Si la palabra es un hueso, la respuesta correcta es SR. El servomotor gira a 120º para señalar los huesos.
+   * Si la palabra es un músculo, la respuesta correcta es SL. El servomotor gira a 60º para señalar los músculos.
    * Si se ha pulsado el botón correcto, se enciende el LED verde y el personaje dice "¡¡correcto!!". Si no, se enciende el LED rojo y dice "Incorrecto". El mensaje se muestra durante 3 segundos.
 6. Pone `Categoría` a 0, borra de la lista la palabra preguntada para que no se repita y apaga los dos LEDs.
 
