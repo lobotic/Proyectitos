@@ -6,6 +6,10 @@ Juego de preguntas con bloques de construcción y la placa EchidnaBlack2 para cl
 
 El servomotor conectado a D8 mueve un indicador que señala la categoría correcta después de cada respuesta, y los LEDs de la placa nos dicen si hemos acertado (verde) o fallado (rojo). Las listas se pueden cambiar fácilmente en el programa, así que el mismo modelo sirve para repasar cualquier tema que se pueda dividir en dos categorías.
 
+## Vídeo
+
+[![Imagen de Youtube](Preguntas2CYoutube.png)](https://youtu.be/caS9wqFPREo)
+
 ## Guía de montaje
 
 ![Gif animado con las instrucciones paso a paso](Preguntas2C.gif)
